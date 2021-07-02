@@ -101,6 +101,7 @@
    "label": "Disable New Update Popup"
   },
   {
+   "default": "Easy2ERP",
    "fieldname": "whitelabel_app_name",
    "fieldtype": "Data",
    "label": "Whitelabel App Name"
@@ -108,7 +109,7 @@
  ],
  "issingle": 1,
  "links": [],
- "modified": "2021-05-05 23:04:05.314897",
+ "modified": "2021-07-02 23:42:08.391651",
  "modified_by": "Administrator",
  "module": "Whitelabel",
  "name": "Whitelabel Setting",
